@@ -2399,7 +2399,7 @@ footer a:hover {
   background-color: #080808;
 }
 
-.container-free a:hover {
+.dark-mode .container-free a:hover {
   background-color: #6810af;
 }
 
@@ -2486,7 +2486,7 @@ footer a:hover {
   color: f0f0f0;
 }
 
-.contact-form form button:hover {
+.dark-mode .contact-form form button:hover {
   background-color: #410a6e;
 }
 
